@@ -22,7 +22,6 @@ If the spacebar is pressed, it is shown as "space".
 
     ```bash
     git clone https://github.com/DenizzALP/KeyCodeViewer.git
-    cd Guncel-Hava-Durumu-Uygulamasi
     ```
 2. Open the `index.html` file in your browser.
 
