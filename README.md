@@ -34,6 +34,12 @@ If the spacebar is pressed, it is shown as "space".
 - CSS (Flexbox)
 - Vanilla JavaScript (DOM Events)
 
+## Example
+![keyCodeViewer3](https://github.com/user-attachments/assets/76dc3667-6a6f-4747-a05e-49c68f8897f3)
+![keyCodeViewer2](https://github.com/user-attachments/assets/d9d68141-36bb-41cb-8d44-7104d39d799c)
+![KeyCodeViewer1](https://github.com/user-attachments/assets/fbd14b53-c2a7-4ad6-acf4-fa438f0a0d7e)
+
+
 ## License
 
 This project is open-source and available under the MIT License.
